@@ -1,0 +1,5 @@
+1. Setup the  Media_root and Media_Url in settings.py and add the url in urlpatterns
+2.create a model for storing the uploaded in database and register it in admin.py (then check the database at ./admin)
+3. create a form for rendering in html
+4.create a template and remember to set the form tag's enctype="multipart/form-data"
+5.Write the javaScript file and also add jQuery file for AJAX
